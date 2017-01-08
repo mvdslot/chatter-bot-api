@@ -1,0 +1,8 @@
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\bin\Debug\ChatterBotAPITest.exe
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\bin\Debug\ChatterBotAPITest.pdb
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\bin\Debug\ChatterBotAPI.dll
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\bin\Debug\ChatterBotAPI.pdb
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\obj\Debug\ChatterBotAPITest.csprojResolveAssemblyReference.cache
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\obj\Debug\ChatterBotAPITest.exe
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\obj\Debug\ChatterBotAPITest.pdb
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPITest\bin\Debug\ChatterBotAPITest.exe.config

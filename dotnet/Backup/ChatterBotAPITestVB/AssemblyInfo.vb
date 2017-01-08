@@ -1,6 +1,5 @@
-
-Imports System
-Imports ChatterBotAPI
+Imports System.Reflection
+Imports System.Runtime.CompilerServices
 
 '    ChatterBotAPI
 '    Copyright (C) 2011 pierredavidbelanger@gmail.com
@@ -17,27 +16,15 @@ Imports ChatterBotAPI
 '
 '    You should have received a copy of the GNU Lesser General Public License
 '    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-Public Class Application
-
-    Public Shared Sub Main()
-        Dim factory As ChatterBotFactory = New ChatterBotFactory()
-
-        Dim bot1 As ChatterBot = factory.Create(ChatterBotType.CLEVERBOT)
-        Dim bot1session As ChatterBotSession = bot1.CreateSession()
-
-        Dim bot2 As ChatterBot = factory.Create(ChatterBotType.PANDORABOTS, "b0dafd24ee35a477")
-        Dim bot2session As ChatterBotSession = bot2.CreateSession()
-
-        Dim s As String = "Hi"
-        Do While True
-
-            Console.WriteLine("bot1> " + s)
-
-            s = bot2session.Think(s)
-            Console.WriteLine("bot2> " + s)
-
-            s = bot1session.Think(s)
-        Loop
-    End Sub
-End Class
+<assembly: AssemblyTitle("ChatterBotAPITestVB")>
+<assembly: AssemblyDescription("")>
+<assembly: AssemblyConfiguration("")>
+<assembly: AssemblyCompany("")>
+<assembly: AssemblyProduct("")>
+<assembly: AssemblyCopyright("pierredavidbelanger")>
+<assembly: AssemblyTrademark("")>
+<assembly: AssemblyCulture("")>
+<assembly: AssemblyVersion("1.0.0.0")>
+<assembly: AssemblyDelaySign(false)>
+<assembly: AssemblyKeyFile("")>
 

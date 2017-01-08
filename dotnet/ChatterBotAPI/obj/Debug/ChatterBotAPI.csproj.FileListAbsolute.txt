@@ -1,0 +1,5 @@
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPI\bin\Debug\ChatterBotAPI.dll
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPI\bin\Debug\ChatterBotAPI.pdb
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPI\obj\Debug\ChatterBotAPI.csprojResolveAssemblyReference.cache
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPI\obj\Debug\ChatterBotAPI.dll
+C:\Source\Repos\chatter-bot-api\dotnet\ChatterBotAPI\obj\Debug\ChatterBotAPI.pdb
